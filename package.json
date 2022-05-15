@@ -1,0 +1,41 @@
+{
+  "homepage": "http://dimda.github.io/national-data-explorer",
+  "name": "national-data-explorer",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@material-ui/core": "4.9.x",
+    "gh-pages": "2.2.x",
+    "react": "16.13.x",
+    "react-dom": "16.13.x",
+    "react-redux": "7.2.x",
+    "react-scripts": "3.4.x",
+    "recharts": "1.8.x",
+    "redux": "4.0.x",
+    "redux-devtools-extension": "2.13.x",
+    "redux-saga": "1.1.x",
+    "standard": "14.3.x"
+  }
+}
