@@ -38,5 +38,8 @@
     "redux-devtools-extension": "2.13.x",
     "redux-saga": "1.1.x",
     "standard": "14.3.x"
+  },
+  "dependencies": {
+    "react-router-dom": "^6.3.0"
   }
 }
