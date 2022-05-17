@@ -8,6 +8,7 @@
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "postbuild": "cp build/index.html build/404.html",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
