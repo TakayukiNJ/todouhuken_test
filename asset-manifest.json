@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/national-data-explorer/static/css/main.042c54bf.chunk.css",
-    "main.js": "/national-data-explorer/static/js/main.f45207d8.chunk.js",
-    "main.js.map": "/national-data-explorer/static/js/main.f45207d8.chunk.js.map",
-    "runtime-main.js": "/national-data-explorer/static/js/runtime-main.e87a3ce9.js",
-    "runtime-main.js.map": "/national-data-explorer/static/js/runtime-main.e87a3ce9.js.map",
-    "static/js/2.cffed6de.chunk.js": "/national-data-explorer/static/js/2.cffed6de.chunk.js",
-    "static/js/2.cffed6de.chunk.js.map": "/national-data-explorer/static/js/2.cffed6de.chunk.js.map",
-    "index.html": "/national-data-explorer/index.html",
-    "precache-manifest.f065bc0517dcb49f83636ce9f0014baa.js": "/national-data-explorer/precache-manifest.f065bc0517dcb49f83636ce9f0014baa.js",
-    "service-worker.js": "/national-data-explorer/service-worker.js",
-    "static/css/main.042c54bf.chunk.css.map": "/national-data-explorer/static/css/main.042c54bf.chunk.css.map",
-    "static/js/2.cffed6de.chunk.js.LICENSE.txt": "/national-data-explorer/static/js/2.cffed6de.chunk.js.LICENSE.txt",
-    "static/media/style.css": "/national-data-explorer/static/media/dot-grid.5a69c256.png"
+    "main.css": "/todouhuken_test/static/css/main.8d557f21.chunk.css",
+    "main.js": "/todouhuken_test/static/js/main.cf8c1b0b.chunk.js",
+    "main.js.map": "/todouhuken_test/static/js/main.cf8c1b0b.chunk.js.map",
+    "runtime-main.js": "/todouhuken_test/static/js/runtime-main.1492c85d.js",
+    "runtime-main.js.map": "/todouhuken_test/static/js/runtime-main.1492c85d.js.map",
+    "static/js/2.cffed6de.chunk.js": "/todouhuken_test/static/js/2.cffed6de.chunk.js",
+    "static/js/2.cffed6de.chunk.js.map": "/todouhuken_test/static/js/2.cffed6de.chunk.js.map",
+    "index.html": "/todouhuken_test/index.html",
+    "precache-manifest.c321b6b1a7d4b4c25adca89c31b6740b.js": "/todouhuken_test/precache-manifest.c321b6b1a7d4b4c25adca89c31b6740b.js",
+    "service-worker.js": "/todouhuken_test/service-worker.js",
+    "static/css/main.8d557f21.chunk.css.map": "/todouhuken_test/static/css/main.8d557f21.chunk.css.map",
+    "static/js/2.cffed6de.chunk.js.LICENSE.txt": "/todouhuken_test/static/js/2.cffed6de.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/todouhuken_test/static/media/dot-grid.5a69c256.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e87a3ce9.js",
+    "static/js/runtime-main.1492c85d.js",
     "static/js/2.cffed6de.chunk.js",
-    "static/css/main.042c54bf.chunk.css",
-    "static/js/main.f45207d8.chunk.js"
+    "static/css/main.8d557f21.chunk.css",
+    "static/js/main.cf8c1b0b.chunk.js"
   ]
 }
